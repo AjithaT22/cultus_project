@@ -1,2 +1,0 @@
-# cultus_project
-
